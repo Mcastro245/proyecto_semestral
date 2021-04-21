@@ -1,0 +1,41 @@
+
+
+.carousel,
+.carousel-inner>.item>img {
+    border-image-outset: 200%;
+}
+
+.carousel-item,
+.carousel-  inner,
+.carousel-inner img {
+    height: 100%;
+}
+
+.carousel-item {
+    text-align: center;
+}
+
+.carousel-inner {
+  width: 100%;
+}
+
+#foto1{
+  box-shadow: 10px 5px 5px black;;
+}
+
+#face:hover{
+  color: white!important;
+}
+
+#xd{
+  border-radius: 7px;
+  box-shadow: 4px 6px 3px black;
+}
+.form{
+  border-collapse: separate;
+  border-spacing: 10px 5px;
+}
+
+#return{
+  color: white;
+}
